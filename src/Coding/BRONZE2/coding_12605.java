@@ -36,7 +36,7 @@ public class coding_12605 {
         for (int i = 0; i < N; i++) {
             String Num = AllList.get(i);
             for (int j = 0; j < AllList.get(i).length(); j++) {
-                String text += Num[j];
+                //String text += Num[j];
             }
         }
 
